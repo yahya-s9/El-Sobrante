@@ -26,7 +26,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'   # change to your built output folder if needed (e.g., 'dist')
+          path: 'Aakif-In-Pairs'   # Deploy from the Aakif-In-Pairs subdirectory
 
   deploy:
     needs: build
