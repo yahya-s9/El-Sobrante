@@ -13,7 +13,7 @@ Tracking the history of our house
 | Khalid    | 
 | Yahya     | 
 
-## Current Roommates
+## Wall of Martyrs
 
 | Naam | Destination | Tenure |
 |-----------|-----------|-----------|
